@@ -1,0 +1,21 @@
+div {
+    background-color: rgb(108, 108, 148);
+    width: 200px;
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+    border-radius: 15px;
+    box-shadow: 5px 5px black;
+    font-size: xx-large;
+    font-weight: bold;
+}
+a{
+color: white;
+text-decoration: none;
+}
+
+div:hover {
+    background-color: black;
+    transform: rotate(-5deg);
+    transition: 2s;
+}

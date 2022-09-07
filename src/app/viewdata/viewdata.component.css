@@ -1,0 +1,47 @@
+table {
+  border: 2px solid black;
+  text-align: center;
+  background-color:#bdefef;;
+  width: 70%;
+  height: 10px;
+}
+
+h1 {
+  padding-left: 50px;
+  text-align: justify;
+}
+
+div {
+
+  padding-top: 30px;
+}
+
+button {
+  color: gold;
+  background-color: rgb(108, 108, 148);
+  width: 100px;
+  height: 25px;
+  border-color: seagreen;
+  border-radius: 12px;
+
+
+}
+
+
+th {
+  border: 2px solid white;
+  font-size: larger;
+  color: blue;
+
+}
+
+tr {
+  border: 2px solid;
+  font-size: large;
+}
+
+td {
+  border: 2px solid white;
+  font-size: large;
+  color: darkolivegreen;
+}

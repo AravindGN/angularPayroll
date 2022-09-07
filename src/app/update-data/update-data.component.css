@@ -1,0 +1,26 @@
+form{
+    padding :20px;
+    border: solid black;
+    display: grid;
+    row-gap: 10px;
+    text-align: left ;
+    color: rgb(108, 108, 148);
+    width: 300px;
+    font-size: large;
+    font-weight: bold;
+}
+
+button {
+    color: white;
+    background-color: rgb(108, 108, 148);
+    width: 100px;
+    height: 25px;
+    border-color: seagreen;
+    border-radius: 12px;
+  
+  
+  }
+h1{
+    padding-left: 50px;
+    text-align: justify;
+}
